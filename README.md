@@ -1,3 +1,3 @@
 # coursea-test
 Coursea test rep
-theme: Dinky
+theme: dinky
